@@ -1,0 +1,5 @@
+Ivanov - 20000
+Petrov - 30000
+Sidorov - 40000
+Popov - 10000
+Sosnov - 15000
